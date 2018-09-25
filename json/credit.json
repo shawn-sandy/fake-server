@@ -1,0 +1,18 @@
+{
+  "id": 20,
+  "customerNumber": "0009000555",
+  "salesOrganization": "AU94",
+  "paymentTerms": "M045",
+  "creditLimit": 1000000.00,
+  "creditLimitString": "AUD$ 1,000,000.00",
+  "totalReceivables": -24601.63,
+  "totalReceivablesString": "AUD-$ 24,601.63",
+  "salesValue": 14905.67,
+  "salesValueString": "AUD$ 14,905.67",
+  "creditExposure": -9695.96,
+  "creditExposureString": "AUD-$ 9,695.96",
+  "availableCredit": 1009695.96,
+  "availableCreditString": "AUD$ 1,009,695.96",
+  "createdOn": "2018-09-04T15:27:24.42",
+  "createdOnString": "Tuesday, September 4, 2018"
+}

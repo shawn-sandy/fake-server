@@ -1,0 +1,51 @@
+ [{
+     "id": 0,
+     "imageUrl": "https://cdn.cnetcontent.com/00/37/00377343-8a2a-4c31-8d54-182020c91a5e.jpg",
+     "productTitle": "HP Color LaserJet Professional CP5225 - printer - colour - laser",
+     "manufacturerNumber": "CE710A",
+     "materialNumber": "HPQCE710A",
+     "price": 16477889,
+     "priceString": "Rp 16,477,889",
+     "hasPricing": true
+   },
+   {
+     "id": 1,
+     "imageUrl": "https://cdn.cnetcontent.com/00/37/00377343-8a2a-4c31-8d54-182020c91a5e.jpg",
+     "productTitle": "HP Color LaserJet Professional CP5225 - printer - colour - laser",
+     "manufacturerNumber": "CE710A",
+     "materialNumber": "HPQCE710A",
+     "price": 16477889,
+     "priceString": "Rp 16,477,889",
+     "hasPricing": true
+   },
+   {
+     "id": 2,
+     "imageUrl": "https://cdn.cnetcontent.com/00/37/00377343-8a2a-4c31-8d54-182020c91a5e.jpg",
+     "productTitle": "HP Color LaserJet Professional CP5225 - printer - colour - laser",
+     "manufacturerNumber": "CE710A",
+     "materialNumber": "HPQCE710A",
+     "price": 16477889,
+     "priceString": "Rp 16,477,889",
+     "hasPricing": true
+   },
+   {
+     "id": 3,
+     "imageUrl": "https://cdn.cnetcontent.com/00/37/00377343-8a2a-4c31-8d54-182020c91a5e.jpg",
+     "productTitle": "HP Color LaserJet Professional CP5225 - printer - colour - laser",
+     "manufacturerNumber": "CE710A",
+     "materialNumber": "HPQCE710A",
+     "price": 16477889,
+     "priceString": "Rp 16,477,889",
+     "hasPricing": true
+   },
+   {
+     "id": 4,
+     "imageUrl": "https://cdn.cnetcontent.com/00/37/00377343-8a2a-4c31-8d54-182020c91a5e.jpg",
+     "productTitle": "HP Color LaserJet Professional CP5225 - printer - colour - laser",
+     "manufacturerNumber": "CE710A",
+     "materialNumber": "HPQCE710A",
+     "price": 16477889,
+     "priceString": "Rp 16,477,889",
+     "hasPricing": true
+   }
+ ]

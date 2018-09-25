@@ -1,0 +1,43 @@
+{
+  "id": 862,
+  "name": null,
+  "couponCode": null,
+  "subTotal": 3335245,
+  "subTotalString": "Rp 3,335,245",
+  "discount": 0,
+  "discountString": "Rp0",
+  "isTaxIncludedInProductPrice": false,
+  "taxAmount": null,
+  "taxAmountString": "-",
+  "shippingAmount": null,
+  "shippingAmountString": null,
+  "subTotalWithDiscount": 0,
+  "orderTotal": 3335245,
+  "orderTotalString": "Rp 3,335,245",
+  "freight": "Based on Location",
+  "items": [
+    {
+      "id": 2546,
+      "productId": "HPQD9L19A",
+      "name": "HP OfficeJet Pro 8720 All-in-One Printer",
+      "description": "HP OfficeJet Pro 8720 All-in-One Printer",
+      "image": null,
+      "price": 3335245,
+      "priceString": "Rp 3,335,245",
+      "msrp": 4091000,
+      "msrpString": "Rp 4,091,000",
+      "quantity": 1,
+      "total": 3335245,
+      "totalString": "Rp 3,335,245",
+      "mfr": "D9L19A",
+      "upc": null,
+      "stock": 1,
+      "status": "Active",
+      "isFavorite": false,
+      "manufacturerPartNumber": null,
+      "shortDescription": null,
+      "topSpecifications": [],
+      "variationOptions": []
+    }
+  ]
+}
